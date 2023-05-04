@@ -20,3 +20,4 @@
 # Go workspace file
 go.work
 *.zip
+*.tar.gz
